@@ -1,0 +1,1 @@
+export function storeItem({id,name,p})
